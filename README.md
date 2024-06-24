@@ -1,16 +1,45 @@
-# youtube_clone
+# YouTube Clone
 
-A new Flutter project.
+A simple YouTube clone built with Flutter and Dart, featuring static content.
+
+## Features
+
+- Home page with video thumbnails
+- Video playback with video thumbnails
+- Static content for demonstration purposes
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Dart SDK: Comes with Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/youtube-clone.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd youtube-clone
+    ```
+3. Get the dependencies:
+    ```sh
+    flutter pub get
+    ```
+
+### Running the App
+
+To run the app on an android emulator or physical device, use:
+```sh
+flutter run
+```
+
+## Screenshots
+Here are some screenshots of the app:
+
+<img width="294" alt="image" src="https://github.com/CesarInzunsa/youtube_clone/assets/67014675/16f8e6c2-b0a0-48aa-ae1c-01f300f38991">
