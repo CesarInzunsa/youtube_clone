@@ -42,4 +42,6 @@ flutter run
 ## Screenshots
 Here are some screenshots of the app:
 
+<img width="294" alt="image" src="https://github.com/CesarInzunsa/youtube_clone/assets/67014675/9658d81f-a1e0-4d1b-876b-6c94f59d2002">
+<img width="294" alt="image" src="https://github.com/CesarInzunsa/youtube_clone/assets/67014675/81180713-0302-4dcc-8816-c8c113fcdc1f">
 <img width="294" alt="image" src="https://github.com/CesarInzunsa/youtube_clone/assets/67014675/16f8e6c2-b0a0-48aa-ae1c-01f300f38991">
